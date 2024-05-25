@@ -3,10 +3,10 @@
     // I LOVE CATS
     
     const catFacts = [
-        'Snail IDE used to be based off of DevBlocks',
-        'If you go to https://snail-ide.github.io/1.0/ you can use old Snail IDE',
-        'Snail IDE is based off of PenguinMod',
-        'Try out plungermod.',
+        'Tacos are not an animal.',
+        'Snail IDE is cool!!!',
+        'Taco IDE is based off of Snail IDE, which is based off PenguinMod, which is based off Turbowarp, which is based off Scratch...',
+        'Try out Gandi IDE.',
         'Snails are real 💀'
     ];
     
